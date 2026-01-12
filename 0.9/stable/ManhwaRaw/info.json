@@ -1,1 +1,0 @@
-{"name":"ManhwaRaw","description":"Extension that pulls content from manhwa-raw.com.","version":"1.0.0-alpha.3","icon":"icon.png","language":"🇰🇷","contentRating":"ADULT","badges":[{"label":"Korean","textColor":"#ffffff","backgroundColor":"#808080"}],"capabilities":117,"developers":[{"name":"Netsky","github":"https://github.com/TheNetsky"}],"id":"ManhwaRaw"}
